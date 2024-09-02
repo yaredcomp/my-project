@@ -14,3 +14,4 @@ jobs:
       #  node-version: 20
       - run: npm ci
       - run: npm run build
+# command: gitlens.graph.push?%7B%22webview%22%3A%22gitlens.views.graph%22%7D
